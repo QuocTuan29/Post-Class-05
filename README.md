@@ -13,14 +13,7 @@ Tính đóng gói (Encapsulation): Che giấu chi tiết quản lý bộ bài (D
 🏗️ Cấu trúc Dự án (Project Structure)
 
 Dự án được tổ chức theo tiêu chuẩn Eclipse Java Project với 2 packages chính:
-
-Exercise09_Singleton/
-└── src/
-     ├── designbook.chapter4/
-     │    ├── Card.java         # Lớp biểu diễn lá bài (Rank & Suit)
-     │    └── Deck.java         # Lớp quản lý bộ bài 52 lá
-     └── designbook.solutions4/
-          └── Exercise09.java   # Chứa GameModel (Singleton) và phương thức main()
+<img width="779" height="232" alt="image" src="https://github.com/user-attachments/assets/7953bf46-de0e-4144-a9d3-350feb8b8f3e" />
 
 
 🔑 Giải thích Giải pháp Kiến trúc (Architectural Solution)
